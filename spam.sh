@@ -28,6 +28,8 @@ echo "1.spam gambar"
 echo "======================"
 echo "2.INSTALL BAHAN"
 echo "======================"
+echo "3.SPAMCALL"
+echo "======================"
 read -p "Masukan No:" pila
 case $pila in
 1) clear
@@ -39,6 +41,11 @@ python2 pepek.py
 ;;
 
 2) python2  yeahno5.py
+;;
+
+3) clear
+python2 spamcall.py
+
 ;;
 
 esac
