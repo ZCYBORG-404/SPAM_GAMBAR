@@ -36,7 +36,7 @@ case $pila in
 read -p "Masukan no Korban:" haja
 echo "INGAT SPAM INI UNLIMITED GAYN!!"
 sleep 3
-python2 pepek.py
+python2 notyeah.py
 
 ;;
 
